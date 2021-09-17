@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NeoprocsArya, first year student at NIT Rourkela Mining Department.
+- 👋 Hi, I’m @NeoprocsArya, Second year student at NIT Rourkela Mining Department.
 - I like to play chess, read inspiring books, play some more chess and sleep.
 - 🌱 I’m currently learning DSA
 - 💞️ I'm looking for some interesting project
